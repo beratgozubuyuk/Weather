@@ -1,0 +1,158 @@
+{
+    "OcakListe": [
+        {
+            "Ocak": "1001",
+            "OcakTanim": "EĞLENCE DERESİ"
+        },
+        {
+            "Ocak": "1002",
+            "OcakTanim": "KETENDERE"
+        },
+        {
+            "Ocak": "1003",
+            "OcakTanim": "SÖPÇAYIRI"
+        }
+    ],
+    "OcakMalzemeListe": [
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100141",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCE E-3590"
+        },
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100147",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCEE-3790"
+        },
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100143",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCE E-2595"
+        },
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100038",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCE E-4590"
+        },
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100010",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCEE-5790"
+        },
+        {
+            "Ocak": "1001",
+            "Malzeme_Kodu": "EOH100100037",
+            "Malzeme_Tanim": "FELDSPAT EĞLENCE E-5590"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100152",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-1395"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100136",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-2395"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100135",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-2390"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100133",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-2385"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100080",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-3385"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100078",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-2380"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100027",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-4385"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100026",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-4380"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100079",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-1380"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100081",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-3390"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100082",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-3380"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100134",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-1385"
+        },
+        {
+            "Ocak": "1002",
+            "Malzeme_Kodu": "EOH100100151",
+            "Malzeme_Tanim": "FELDSPAT K.DERE E-1390"
+        }
+    ],
+    "VarisYeriListe": [
+        {
+            "TesisKodu": "2140",
+            "Tesis_Tanim": "ESAN Yeniköy Tesis"
+        }
+    ],
+    "KantarListe": [
+        {
+            "TesisKodu": "2140",
+            "Kantar_No": "KNT05",
+            "Kantar_Tanim": "YENİKÖY KANTAR"
+        },
+        {
+            "TesisKodu": "2140",
+            "Kantar_No": "KNT17",
+            "Kantar_Tanim": "YENİKÖY KANTAR 2"
+        }
+    ],
+    "KamyonListe": [
+        {
+            "Plaka": "20SU769",
+            "KAMYONID": "1000111",
+            "SOFORADI": "Mehmet Aga",
+            "DARA": "344",
+            "DARA_BIRIM": "KG"
+        }
+    ],
+    "KullaniciListe": [
+        {
+            "TCKno": "10101010111",
+            "AdSoyad": "Kör Kamil"
+        },
+        {
+            "TCKno": "10222221325",
+            "AdSoyad": "Prens Sebahattin"
+        },
+        {
+            "TCKno": "12345678909",
+            "AdSoyad": "Mehmet Aga"
+        },
+        {
+            "TCKno": "33012123317",
+            "AdSoyad": "Tavancı Nazif"
+        }
+    ]
+}
